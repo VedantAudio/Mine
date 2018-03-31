@@ -3,11 +3,11 @@
 <html>
     <head>
     <meta charset="utf-8">
-      <title>Minerals</title>
+      <title>Как стать успешным геологом</title>
     </head>
 <body>
-  <h1>Minerals. What is it?</h1>
-  <p>Here will be giving detetmination</p>
+  <h1>Как стать успешным геологом</h1>
+  <p>На этом ресурсе мы расскажем вам о том, что необходимо Вам для того чтобы стать успешным геологом.</p>
   
  </body>
  </html>
